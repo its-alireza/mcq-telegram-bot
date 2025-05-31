@@ -1,6 +1,4 @@
-python-telegram-bot
-telebot
-python-dotenv
-google-generativeai
-google.generativeai
-pyTelegramBotAPI
+python-telegram-bot==20.5
+python-dotenv==0.21.1
+google-generativeai==0.8.4
+pyTelegramBotAPI==4.26.0
