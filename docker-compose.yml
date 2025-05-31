@@ -1,0 +1,11 @@
+version: "2"
+services:
+  bot:
+    build: .
+    container_name: mcq_bot
+    restart: always
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+    command: ["python", "main.py"]

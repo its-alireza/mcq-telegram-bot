@@ -1,0 +1,6 @@
+python-telegram-bot
+telebot
+python-dotenv
+google-generativeai
+google.generativeai
+pyTelegramBotAPI
