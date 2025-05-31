@@ -36,7 +36,7 @@ sudo systemctl start docker
 
 ### 1. Clone the project
 ```bash
-git clone 
+git clone https://github.com/its-alireza/mcq-telegram-bot
 cd mcq-telegram-bot
 ```
 
